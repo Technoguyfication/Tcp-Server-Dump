@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Tcp-Server-Dump": {
-      "commandName": "Project",
-      "commandLineArgs": "1337"
-    }
-  }
-}
