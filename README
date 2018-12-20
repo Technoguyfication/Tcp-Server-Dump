@@ -1,0 +1,12 @@
+To launch the program simply run it through the command line, specifying the port after the executable.
+
+Example: Tcp-Server-Dump.exe 80
+...would dump incoming connections on port 80 to data.raw in the working directory.
+
+No, there aren't any other options. If you want other options, feel free to submit a pull request ¯\_(ツ)_/¯
+GitHub repo: https://github.com/Technoguyfication/Tcp-Server-Dump
+
+>> I hope you find this program minimally useful! <<
+
+You should have received a copy of the MIT license with this software. If you didn't, please refer to https://raw.githubusercontent.com/Technoguyfication/Tcp-Server-Dump/master/LICENSE
+
